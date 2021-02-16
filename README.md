@@ -10,3 +10,8 @@ The article discusses two key development strategies: Git Flow Development vs. T
 What I find personally interesting about this article is that it further proves that software engineering really does have a lot of different styles and approaches when solving a problem. I feel that many developers have gone into Computer Science particularly because of this freedom of choice to harness their own methodology to solve problems. Git Flow vs. Trunk based development emphasizes this point where it's not only the code that requires creative, free thinking for problem-solving, but also at an engineering/managerial level as well. Mr. Gadzinowski's article not only articulates this idea, but does so at an introductory level to really help software developers understand the importance of being robust problem-solvers.
 
 Learning by the books isn't enough, and developers must be adaptable and learn their team's strengths and weakness to truly excel in their development.
+
+### Matt's (@mv1572) Edits.
+
+I also found it interesting to see how various organizations were using the different development types to their needs. It was also interesting
+to see just how much Version Control Systems sped up the development process, as well as making it much easier. I also find it interesting how something so user friendly (like Git) can enable such complex workflows which are unique and beneficial to all who use them. 
